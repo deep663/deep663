@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deep663
-- 👀 I’m interested in coding and ethical hacking
-- 🌱 I’m currently learning c,python
+- 👋 Hi, I’m Deep senchowa
+- 👀 I’m interested in Web amd Software Devlopment
+- 🌱 I’m currently learning C,C++,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me on deepsenchowa1@gmail.com
 
