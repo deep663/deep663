@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Deep senchowa
-- 👀 I’m interested in Web amd Software Devlopment
-- 🌱 I’m currently learning C,C++,python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Deep Senchowa
+- 👀 I’m interested in Web and Software development
+- 🌱 I’m currently learning C, C++, and python
+- 💞️ I’m looking to collaborate on any software development or machine learning projects
 - 📫 Mail me on deepsenchowa1@gmail.com
 
 <!---
