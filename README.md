@@ -1,4 +1,3 @@
-![LinkedIn](https://github.com/deep663/deep663/assets/62834469/f8d6ce01-ccce-47aa-b480-5d19d31e5a8a)
 - 👋 Hi, I’m Deep Senchowa
 - 👀 I’m interested in Web and Software development
 - ♨️ Programming languages that work with C, C++, PHP, JavaScript, and Python include:
