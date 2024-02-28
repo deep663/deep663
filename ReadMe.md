@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on the MERN stack.<br>👀 I’m interested in Web and Software development.<br>♨️ Programming languages C, C++, Java, JavaScript, and Python<br>🌱 Currently learning IT Automation, Python Scripting, ML with Python, Neural-network, and Deep Learning<br>💞️ I’m looking to collaborate on any software/web development or machine learning projects<br>📫 Mail me at deepsenchowa1@gmail.com
+🔭 I'm currently working on the MERN stack.<br>👀 I’m interested in Web and Software development.<br>♨️ Currently learning IT Automation, Python Scripting, ML with Python, Neural-network, and Deep Learning<br>💞️ I’m looking to collaborate on any software/web development or machine learning projects<br>📫 Mail me at deepsenchowa1@gmail.com
 
 
 ## 🌐 Socials:
