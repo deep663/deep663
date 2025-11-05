@@ -18,7 +18,7 @@ I’m a recent B.Tech in Computer Science & Engineering graduate with a drive to
 ### 🚀 What I’m Working On  
 - Building and refining my personal portfolio with full-stack apps (React + Node + MongoDB).  
 - Exploring AI/ML model prototyping with Python & Flask.  
-- Researching hardware-security & symbolic/execution techniques for my past project (IIT Guwahati).  
+- Exploring Agentic AI with Langchain, Langgraph, Ollama, N8N. 
 - Contributing to open-source and improving my GitHub activity and project documentation.
 
 ---
@@ -26,7 +26,7 @@ I’m a recent B.Tech in Computer Science & Engineering graduate with a drive to
 ### 📫 How to Reach Me  
 - **Email**: deepsenchowa1@gmail.com  
 - **LinkedIn**: [linkedin.com/in/deepsenchowa](https://www.linkedin.com/in/deepsenchowa/)  
-- **Portfolio/GitHub**: [https://github.com/deep663](https://github.com/deep663) (or your GitHub username)  
+- **Portfolio/GitHub**: [https://github.com/deep663](https://github.com/deep663)
 
 ---
 
