@@ -6,17 +6,16 @@ I’m a recent B.Tech in Computer Science & Engineering graduate with a drive to
 ---
 
 ### 🛠 Tech Stack  
-- **Frontend**: React.js  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, Mongoose  
-- **Language**: JavaScript/TypeScript, Python  
-- **Frameworks/Libs**: Flask, MERN stack  
-- **Other**: REST APIs, Git, Version Control, Problem-Solving, Collaboration  
+- **Frontend**: React.js, NextJS, Vite, Tailwindcss, Shadecn    
+- **Backend**: Node.js, Express.js, DJango, Flask  
+- **Database**: MySQL, MongoDB, PostgreSQL
+- **Language**: JavaScript/TypeScript, Python, C++  
+- **Other**: REST APIs, Git, Problem-Solving, Linux
 
 ---
 
 ### 🚀 What I’m Working On  
-- Building and refining my personal portfolio with full-stack apps (React + Node + MongoDB).  
+- Building and refining my personal portfolio with full-stack apps.  
 - Exploring AI/ML model prototyping with Python & Flask.  
 - Exploring Agentic AI with Langchain, Langgraph, Ollama, N8N. 
 - Contributing to open-source and improving my GitHub activity and project documentation.
