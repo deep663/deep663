@@ -25,7 +25,7 @@ I’m a recent B.Tech in Computer Science & Engineering graduate with a drive to
 ### 📫 How to Reach Me  
 - **Email**: deepsenchowa1@gmail.com  
 - **LinkedIn**: [linkedin.com/in/deepsenchowa](https://www.linkedin.com/in/deepsenchowa/)  
-- **Portfolio/GitHub**: [https://github.com/deep663](https://github.com/deep663)
+- **Portfolio**: [DEEPS](https://deepdotdev.vercel.app/)
 
 ---
 
